@@ -224,7 +224,6 @@ var Collection = (function() {
 
   Collection.prototype.loadLabels = function(){
     var _this = this;
-
     var fontFiles = {
       'default': LabelSet.defaultValues.fontDir + LabelSet.defaultValues.fontFile
     };
@@ -282,7 +281,6 @@ var Collection = (function() {
         });
         labelPromises.push(labelPromise);
       });
-
       if (labelPromises.length < 1) labelPromises.resolve();
       else {
         $.when.apply(null, labelPromises).done(function() {
@@ -401,7 +399,7 @@ var Collection = (function() {
         }
         return;
       }
-      // otherwise, make a request
+      // otherwise, make a request)
       $.getJSON(set.src, function(data){
         loaded++;
         _this.opt.onLoadProgress();

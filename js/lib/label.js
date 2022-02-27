@@ -28,7 +28,10 @@ var Label = (function() {
       new THREE.MeshBasicMaterial( { color: 0x000000 } ) // side
     ];
     // var textMat = new THREE.MeshBasicMaterial({ color: this.opt.color });
-    var textGeo = new THREE.TextGeometry( ''+this.opt.text, {
+    console.log({LT:this.opt.text})
+    let text = typeof this.opt.text === 'number' ? this.opt.text+'' : ''
+    // var textGeo = new THREE.TextGeometry( ''+this.opt.text, {
+    var textGeo = new THREE.TextGeometry( text, {
       font: this.opt.font,
       size: this.opt.fontSize,
       height: this.opt.thickness
