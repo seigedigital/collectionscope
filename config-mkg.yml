@@ -98,6 +98,10 @@ groupColors:
   # Comment any of these out if they are not applicable
   # Entries with blank or null values will not be displayed
 itemFields:
+
+  - column: Id
+    label: Id
+
   - column: Title
     isTitle: true # titles will be displayed as headings
   #

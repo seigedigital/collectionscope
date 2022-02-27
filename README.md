@@ -1,3 +1,9 @@
+# Leander's Notes
+
+```rm -rf apps/mkg/* tmp/* && python3 make_app.py -config config-mkg.yml -clean```
+
+
+
 # Collectionscope
 
 Collectionscope is an open source software engine for visualizing museum collections across time and space in three dimensional space. [Visit our homepage](https://amnh-sciviz.github.io/collectionscope/) for more details about this project.
