@@ -32,9 +32,6 @@ _.extend(CONFIG, {
         },
         {
           "src": "img/textures/default_8.jpg"
-        },
-        {
-          "src": "img/textures/default_9.jpg"
         }
       ]
     }

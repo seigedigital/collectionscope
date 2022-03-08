@@ -47,7 +47,7 @@ dateColumn: Year
 dateLabel: Jahr # name of this date for displaying to the user
 # If there is a valid range of years for date, enter it here, otherwise comment it out.
   # Entries with invalid dates will be removed
-minimumYear: 1301
+minimumYear: 1700
 maximumYear: 2001
 
 #################################
@@ -75,7 +75,7 @@ baseMapKey: ../../img/world_map_key.png # path is relative to your /apps/{your p
   # E.g. "Object type", "Subject", "Era", etc
   # If there are a large number of resulting groups, excess groups can be combined into an "Other" group which is configurable below
 groupByColumn: Classification
-groupLabel: Sachgruppe # the name of this column for displaying to the user
+groupLabel: Sammlung # the name of this column for displaying to the user
 groupLimit: 8 # the maximum number of groups; if greater than this number, the last group will be "Other" (combination of all remainder groups); you can disable this in the next parameter
 showOtherGroup: true # if number of groups exceeds the group limit above, combine the remaining groups into an "Other" group; if false, disregard remaining groups
 otherLabel: Other # what to call the "Other" group if applicable
@@ -112,9 +112,13 @@ itemFields:
   - column: primaryImageSmall
     isImage: true # images will be embedded in the page, so larger images will negaively impact the user experience since it will take longer to load
 
-  # - column: Object Number
-  #   label: Object Number
-  #
+  - column: Permalink
+    label: Open Website
+    isLink: true
+
+  - column: Inventarnummer
+    label: Inventarnummer
+
   - column: Classification
     label: Sachgruppe
 
