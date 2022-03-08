@@ -64,9 +64,9 @@ longitudeColumn: Longitude
 # Country column is used for labelling countries in the map view; comment out or ignore if not applicable
 countryColumn: Place
 # This is the map that will be used for the map view
-baseMap: ../../img/world_map.png # path is relative to your /apps/{your project}/index.html file
+baseMap: ../../img/world_map_with_regions.png # path is relative to your /apps/{your project}/index.html file
 # And the map used for the map key in the map view
-baseMapKey: ../../img/world_map_key.png # path is relative to your /apps/{your project}/index.html file
+baseMapKey: ../../img/world_map_key_with_regions.png # path is relative to your /apps/{your project}/index.html file
 
 #################################
 # Group by

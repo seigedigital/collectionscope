@@ -1,6 +1,6 @@
 #!/bin/bash
 
-folders=( "./apps/" "./audio/" "./css/" "./fonts/" "./img/" "./js/" )
+folders=( "./apps/" "./audio/" "./css/" "./fonts/" "./img/" "./js/" "proxy.php")
 
 for f in ${folders[@]}; do
   echo $f

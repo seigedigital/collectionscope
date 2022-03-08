@@ -108,6 +108,7 @@ for keyName, options in sets:
                 fn = fn.format(**item)
             # check for no image
             if noImageValue is not None and basename == noImageValue or not os.path.isfile(fn):
+                print("No image value for %s" % fn)
                 img = Image.new(mode=colorMode, size=(cellWidth, cellWidth), color=defaultColor)
             else:
                 img = iu.readImage(fn, mode=colorMode)
@@ -115,6 +116,7 @@ for keyName, options in sets:
                     img = iu.containImage(img, cellWidth, cellWidth)
 
                 if img is None:
+                    print("Error loading %s" % fn)
                     img = Image.new(mode=colorMode, size=(cellWidth, cellWidth), color=defaultColor)
 
             imageData[i] = np.array(img)

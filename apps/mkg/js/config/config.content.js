@@ -2,7 +2,7 @@ _.extend(CONFIG, {
   "keys": {
     "map": {
       "type": "map",
-      "image": "../../img/world_map_key.png"
+      "image": "../../img/world_map_key_with_regions.png"
     },
     "years": {
       "type": "timeline",
@@ -1310,7 +1310,7 @@ _.extend(CONFIG, {
           "type": "plane",
           "width": 8192,
           "height": 4096.0,
-          "image": "../../img/world_map.png",
+          "image": "../../img/world_map_with_regions.png",
           "offset": [
             0,
             -20,
