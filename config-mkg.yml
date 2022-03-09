@@ -74,7 +74,7 @@ baseMapKey: ../../img/world_map_key_with_regions.png # path is relative to your 
 # This column will be used to group the items in different ways; ideally this would be somewhere between 3 and 12 unique groups
   # E.g. "Object type", "Subject", "Era", etc
   # If there are a large number of resulting groups, excess groups can be combined into an "Other" group which is configurable below
-groupByColumn: Classification
+groupByColumn: Sammlung
 groupLabel: Sammlung # the name of this column for displaying to the user
 groupLimit: 8 # the maximum number of groups; if greater than this number, the last group will be "Other" (combination of all remainder groups); you can disable this in the next parameter
 showOtherGroup: true # if number of groups exceeds the group limit above, combine the remaining groups into an "Other" group; if false, disregard remaining groups
@@ -115,6 +115,9 @@ itemFields:
   - column: Permalink
     label: Open Website
     isLink: true
+
+  - column: Sammlung
+    label: Sammlung
 
   - column: Inventarnummer
     label: Inventarnummer

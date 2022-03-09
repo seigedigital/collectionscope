@@ -1218,44 +1218,44 @@ _.extend(CONFIG, {
       "parent": "#legend-container",
       "items": [
         {
-          "text": "Druckgrafik/Druckerzeugnisse",
+          "text": "Fotografie und neue Medien",
           "color": "#7aa030",
-          "count": 1891
+          "count": 5472
         },
         {
-          "text": "Reproduktionsfotografie",
+          "text": "Grafische Sammlung",
           "color": "#726aa4",
-          "count": 1363
+          "count": 1876
         },
         {
-          "text": "Portr\u00e4tfotografie",
+          "text": "Ostasien",
           "color": "#d37200",
-          "count": 1243
+          "count": 1018
         },
         {
-          "text": "Sachfotografie",
+          "text": "Plakatsammlung",
           "color": "#d6a900",
-          "count": 632
+          "count": 331
         },
         {
-          "text": "Reisefotografie",
+          "text": "Moderne",
           "color": "#529c99",
-          "count": 561
+          "count": 141
         },
         {
-          "text": "Architekturfotografie",
+          "text": "Mode und Textil",
           "color": "#b13734",
-          "count": 518
+          "count": 64
         },
         {
-          "text": "Zeichnung/Grafik",
+          "text": "Musikinstrumente",
           "color": "#1f3c90",
-          "count": 398
+          "count": 52
         },
         {
           "text": "Other",
           "color": "#5a0661",
-          "count": 2395
+          "count": 47
         }
       ]
     }
