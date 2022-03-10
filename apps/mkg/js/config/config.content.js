@@ -8,24 +8,28 @@ _.extend(CONFIG, {
       "type": "timeline",
       "items": [
         {
+          "year": 1700,
+          "value": 4
+        },
+        {
           "year": 1701,
-          "value": 9
+          "value": 1
         },
         {
           "year": 1702,
-          "value": 20
+          "value": 27
         },
         {
           "year": 1703,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1704,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1705,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1706,
@@ -45,15 +49,15 @@ _.extend(CONFIG, {
         },
         {
           "year": 1710,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1711,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1712,
-          "value": 10
+          "value": 3
         },
         {
           "year": 1713,
@@ -65,11 +69,11 @@ _.extend(CONFIG, {
         },
         {
           "year": 1715,
-          "value": 90
+          "value": 82
         },
         {
           "year": 1716,
-          "value": 0
+          "value": 7
         },
         {
           "year": 1717,
@@ -77,7 +81,7 @@ _.extend(CONFIG, {
         },
         {
           "year": 1718,
-          "value": 10
+          "value": 8
         },
         {
           "year": 1719,
@@ -85,7 +89,7 @@ _.extend(CONFIG, {
         },
         {
           "year": 1720,
-          "value": 20
+          "value": 25
         },
         {
           "year": 1721,
@@ -97,15 +101,15 @@ _.extend(CONFIG, {
         },
         {
           "year": 1723,
-          "value": 10
+          "value": 12
         },
         {
           "year": 1724,
-          "value": 10
+          "value": 3
         },
         {
           "year": 1725,
-          "value": 149
+          "value": 144
         },
         {
           "year": 1726,
@@ -113,27 +117,27 @@ _.extend(CONFIG, {
         },
         {
           "year": 1727,
-          "value": 10
+          "value": 17
         },
         {
           "year": 1728,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1729,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1730,
-          "value": 80
+          "value": 91
         },
         {
           "year": 1731,
-          "value": 10
+          "value": 7
         },
         {
           "year": 1732,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1733,
@@ -141,15 +145,15 @@ _.extend(CONFIG, {
         },
         {
           "year": 1734,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1735,
-          "value": 20
+          "value": 19
         },
         {
           "year": 1736,
-          "value": 10
+          "value": 8
         },
         {
           "year": 1737,
@@ -161,31 +165,31 @@ _.extend(CONFIG, {
         },
         {
           "year": 1739,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1740,
-          "value": 140
+          "value": 127
         },
         {
           "year": 1741,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1742,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1743,
-          "value": 10
+          "value": 11
         },
         {
           "year": 1744,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1745,
-          "value": 30
+          "value": 33
         },
         {
           "year": 1746,
@@ -193,7 +197,7 @@ _.extend(CONFIG, {
         },
         {
           "year": 1747,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1748,
@@ -213,19 +217,19 @@ _.extend(CONFIG, {
         },
         {
           "year": 1752,
-          "value": 0
+          "value": 5
         },
         {
           "year": 1753,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1754,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1755,
-          "value": 9
+          "value": 2
         },
         {
           "year": 1756,
@@ -237,15 +241,15 @@ _.extend(CONFIG, {
         },
         {
           "year": 1758,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1759,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1760,
-          "value": 19
+          "value": 10
         },
         {
           "year": 1761,
@@ -253,7 +257,7 @@ _.extend(CONFIG, {
         },
         {
           "year": 1762,
-          "value": 0
+          "value": 4
         },
         {
           "year": 1763,
@@ -261,63 +265,63 @@ _.extend(CONFIG, {
         },
         {
           "year": 1764,
-          "value": 10
+          "value": 8
         },
         {
           "year": 1765,
-          "value": 10
+          "value": 8
         },
         {
           "year": 1766,
-          "value": 0
+          "value": 5
         },
         {
           "year": 1767,
-          "value": 10
+          "value": 9
         },
         {
           "year": 1768,
-          "value": 10
+          "value": 5
         },
         {
           "year": 1769,
-          "value": 0
+          "value": 6
         },
         {
           "year": 1770,
-          "value": 66
+          "value": 79
         },
         {
           "year": 1771,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1772,
-          "value": 0
+          "value": 8
         },
         {
           "year": 1773,
-          "value": 0
+          "value": 4
         },
         {
           "year": 1774,
-          "value": 9
+          "value": 5
         },
         {
           "year": 1775,
-          "value": 7
+          "value": 3
         },
         {
           "year": 1776,
-          "value": 10
+          "value": 4
         },
         {
           "year": 1777,
-          "value": 7
+          "value": 2
         },
         {
           "year": 1778,
-          "value": 9
+          "value": 2
         },
         {
           "year": 1779,
@@ -325,63 +329,63 @@ _.extend(CONFIG, {
         },
         {
           "year": 1780,
-          "value": 40
+          "value": 42
         },
         {
           "year": 1781,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1782,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1783,
-          "value": 0
-        },
-        {
-          "year": 1784,
-          "value": 10
-        },
-        {
-          "year": 1785,
-          "value": 10
-        },
-        {
-          "year": 1786,
-          "value": 48
-        },
-        {
-          "year": 1787,
-          "value": 0
-        },
-        {
-          "year": 1788,
           "value": 6
         },
         {
+          "year": 1784,
+          "value": 4
+        },
+        {
+          "year": 1785,
+          "value": 4
+        },
+        {
+          "year": 1786,
+          "value": 40
+        },
+        {
+          "year": 1787,
+          "value": 4
+        },
+        {
+          "year": 1788,
+          "value": 2
+        },
+        {
           "year": 1789,
-          "value": 10
+          "value": 13
         },
         {
           "year": 1790,
-          "value": 23
+          "value": 24
         },
         {
           "year": 1791,
-          "value": 0
+          "value": 4
         },
         {
           "year": 1792,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1793,
-          "value": 0
+          "value": 4
         },
         {
           "year": 1794,
-          "value": 10
+          "value": 9
         },
         {
           "year": 1795,
@@ -389,31 +393,31 @@ _.extend(CONFIG, {
         },
         {
           "year": 1796,
-          "value": 10
-        },
-        {
-          "year": 1797,
-          "value": 8
-        },
-        {
-          "year": 1798,
-          "value": 10
-        },
-        {
-          "year": 1799,
-          "value": 10
-        },
-        {
-          "year": 1800,
-          "value": 48
-        },
-        {
-          "year": 1801,
           "value": 7
         },
         {
+          "year": 1797,
+          "value": 3
+        },
+        {
+          "year": 1798,
+          "value": 17
+        },
+        {
+          "year": 1799,
+          "value": 8
+        },
+        {
+          "year": 1800,
+          "value": 31
+        },
+        {
+          "year": 1801,
+          "value": 21
+        },
+        {
           "year": 1802,
-          "value": 18
+          "value": 23
         },
         {
           "year": 1803,
@@ -421,19 +425,19 @@ _.extend(CONFIG, {
         },
         {
           "year": 1804,
-          "value": 10
+          "value": 3
         },
         {
           "year": 1805,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1806,
-          "value": 10
+          "value": 4
         },
         {
           "year": 1807,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1808,
@@ -441,19 +445,19 @@ _.extend(CONFIG, {
         },
         {
           "year": 1809,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1810,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1811,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1812,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1813,
@@ -465,27 +469,27 @@ _.extend(CONFIG, {
         },
         {
           "year": 1815,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1816,
-          "value": 7
+          "value": 3
         },
         {
           "year": 1817,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1818,
-          "value": 0
+          "value": 8
         },
         {
           "year": 1819,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1820,
-          "value": 10
+          "value": 16
         },
         {
           "year": 1821,
@@ -493,479 +497,479 @@ _.extend(CONFIG, {
         },
         {
           "year": 1822,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1823,
-          "value": 0
+          "value": 2
         },
         {
           "year": 1824,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1825,
-          "value": 0
+          "value": 7
         },
         {
           "year": 1826,
-          "value": 0
+          "value": 8
         },
         {
           "year": 1827,
-          "value": 10
+          "value": 3
         },
         {
           "year": 1828,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1829,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1830,
-          "value": 69
+          "value": 64
         },
         {
           "year": 1831,
-          "value": 19
+          "value": 16
         },
         {
           "year": 1832,
-          "value": 20
+          "value": 17
         },
         {
           "year": 1833,
-          "value": 40
+          "value": 27
         },
         {
           "year": 1834,
-          "value": 28
+          "value": 27
         },
         {
           "year": 1835,
-          "value": 36
+          "value": 52
         },
         {
           "year": 1836,
-          "value": 24
+          "value": 12
         },
         {
           "year": 1837,
-          "value": 9
+          "value": 4
         },
         {
           "year": 1838,
-          "value": 0
+          "value": 1
         },
         {
           "year": 1839,
-          "value": 0
+          "value": 13
         },
         {
           "year": 1840,
-          "value": 186
+          "value": 206
         },
         {
           "year": 1841,
-          "value": 0
+          "value": 3
         },
         {
           "year": 1842,
-          "value": 10
+          "value": 11
         },
         {
           "year": 1843,
-          "value": 33
-        },
-        {
-          "year": 1844,
-          "value": 106
-        },
-        {
-          "year": 1845,
-          "value": 29
-        },
-        {
-          "year": 1846,
-          "value": 49
-        },
-        {
-          "year": 1847,
-          "value": 60
-        },
-        {
-          "year": 1848,
-          "value": 27
-        },
-        {
-          "year": 1849,
-          "value": 9
-        },
-        {
-          "year": 1850,
-          "value": 163
-        },
-        {
-          "year": 1851,
-          "value": 15
-        },
-        {
-          "year": 1852,
-          "value": 154
-        },
-        {
-          "year": 1853,
-          "value": 54
-        },
-        {
-          "year": 1854,
-          "value": 27
-        },
-        {
-          "year": 1855,
-          "value": 138
-        },
-        {
-          "year": 1856,
-          "value": 28
-        },
-        {
-          "year": 1857,
-          "value": 40
-        },
-        {
-          "year": 1858,
-          "value": 19
-        },
-        {
-          "year": 1859,
-          "value": 20
-        },
-        {
-          "year": 1860,
-          "value": 464
-        },
-        {
-          "year": 1861,
-          "value": 0
-        },
-        {
-          "year": 1862,
-          "value": 0
-        },
-        {
-          "year": 1863,
-          "value": 19
-        },
-        {
-          "year": 1864,
-          "value": 0
-        },
-        {
-          "year": 1865,
-          "value": 39
-        },
-        {
-          "year": 1866,
-          "value": 10
-        },
-        {
-          "year": 1867,
-          "value": 76
-        },
-        {
-          "year": 1868,
-          "value": 8
-        },
-        {
-          "year": 1869,
-          "value": 0
-        },
-        {
-          "year": 1870,
-          "value": 116
-        },
-        {
-          "year": 1871,
-          "value": 60
-        },
-        {
-          "year": 1872,
-          "value": 21
-        },
-        {
-          "year": 1873,
-          "value": 41
-        },
-        {
-          "year": 1874,
-          "value": 0
-        },
-        {
-          "year": 1875,
-          "value": 21
-        },
-        {
-          "year": 1876,
-          "value": 48
-        },
-        {
-          "year": 1877,
-          "value": 0
-        },
-        {
-          "year": 1878,
-          "value": 20
-        },
-        {
-          "year": 1879,
-          "value": 14
-        },
-        {
-          "year": 1880,
-          "value": 135
-        },
-        {
-          "year": 1881,
-          "value": 27
-        },
-        {
-          "year": 1882,
-          "value": 14
-        },
-        {
-          "year": 1883,
-          "value": 37
-        },
-        {
-          "year": 1884,
-          "value": 60
-        },
-        {
-          "year": 1885,
-          "value": 35
-        },
-        {
-          "year": 1886,
-          "value": 24
-        },
-        {
-          "year": 1887,
-          "value": 8
-        },
-        {
-          "year": 1888,
-          "value": 19
-        },
-        {
-          "year": 1889,
-          "value": 66
-        },
-        {
-          "year": 1890,
-          "value": 186
-        },
-        {
-          "year": 1891,
-          "value": 17
-        },
-        {
-          "year": 1892,
-          "value": 20
-        },
-        {
-          "year": 1893,
-          "value": 192
-        },
-        {
-          "year": 1894,
-          "value": 53
-        },
-        {
-          "year": 1895,
-          "value": 60
-        },
-        {
-          "year": 1896,
-          "value": 135
-        },
-        {
-          "year": 1897,
-          "value": 484
-        },
-        {
-          "year": 1898,
-          "value": 171
-        },
-        {
-          "year": 1899,
-          "value": 169
-        },
-        {
-          "year": 1900,
-          "value": 228
-        },
-        {
-          "year": 1901,
-          "value": 71
-        },
-        {
-          "year": 1902,
-          "value": 236
-        },
-        {
-          "year": 1903,
-          "value": 159
-        },
-        {
-          "year": 1904,
-          "value": 174
-        },
-        {
-          "year": 1905,
-          "value": 120
-        },
-        {
-          "year": 1906,
-          "value": 91
-        },
-        {
-          "year": 1907,
-          "value": 148
-        },
-        {
-          "year": 1908,
-          "value": 165
-        },
-        {
-          "year": 1909,
-          "value": 68
-        },
-        {
-          "year": 1910,
-          "value": 78
-        },
-        {
-          "year": 1911,
-          "value": 128
-        },
-        {
-          "year": 1912,
-          "value": 44
-        },
-        {
-          "year": 1913,
-          "value": 38
-        },
-        {
-          "year": 1914,
           "value": 22
         },
         {
-          "year": 1915,
-          "value": 44
+          "year": 1844,
+          "value": 108
         },
         {
-          "year": 1916,
+          "year": 1845,
+          "value": 34
+        },
+        {
+          "year": 1846,
+          "value": 24
+        },
+        {
+          "year": 1847,
+          "value": 96
+        },
+        {
+          "year": 1848,
+          "value": 24
+        },
+        {
+          "year": 1849,
+          "value": 11
+        },
+        {
+          "year": 1850,
+          "value": 136
+        },
+        {
+          "year": 1851,
+          "value": 21
+        },
+        {
+          "year": 1852,
+          "value": 123
+        },
+        {
+          "year": 1853,
+          "value": 34
+        },
+        {
+          "year": 1854,
+          "value": 43
+        },
+        {
+          "year": 1855,
+          "value": 164
+        },
+        {
+          "year": 1856,
+          "value": 35
+        },
+        {
+          "year": 1857,
+          "value": 45
+        },
+        {
+          "year": 1858,
+          "value": 34
+        },
+        {
+          "year": 1859,
           "value": 9
         },
         {
-          "year": 1917,
+          "year": 1860,
+          "value": 533
+        },
+        {
+          "year": 1861,
+          "value": 10
+        },
+        {
+          "year": 1862,
+          "value": 3
+        },
+        {
+          "year": 1863,
           "value": 9
         },
         {
-          "year": 1918,
+          "year": 1864,
+          "value": 6
+        },
+        {
+          "year": 1865,
+          "value": 33
+        },
+        {
+          "year": 1866,
+          "value": 4
+        },
+        {
+          "year": 1867,
+          "value": 73
+        },
+        {
+          "year": 1868,
+          "value": 12
+        },
+        {
+          "year": 1869,
+          "value": 4
+        },
+        {
+          "year": 1870,
+          "value": 103
+        },
+        {
+          "year": 1871,
+          "value": 39
+        },
+        {
+          "year": 1872,
+          "value": 14
+        },
+        {
+          "year": 1873,
+          "value": 35
+        },
+        {
+          "year": 1874,
+          "value": 5
+        },
+        {
+          "year": 1875,
+          "value": 7
+        },
+        {
+          "year": 1876,
+          "value": 33
+        },
+        {
+          "year": 1877,
+          "value": 1
+        },
+        {
+          "year": 1878,
+          "value": 22
+        },
+        {
+          "year": 1879,
+          "value": 13
+        },
+        {
+          "year": 1880,
+          "value": 128
+        },
+        {
+          "year": 1881,
+          "value": 23
+        },
+        {
+          "year": 1882,
+          "value": 26
+        },
+        {
+          "year": 1883,
+          "value": 34
+        },
+        {
+          "year": 1884,
           "value": 49
         },
         {
-          "year": 1919,
-          "value": 18
+          "year": 1885,
+          "value": 42
         },
         {
-          "year": 1920,
-          "value": 135
+          "year": 1886,
+          "value": 12
         },
         {
-          "year": 1921,
-          "value": 44
+          "year": 1887,
+          "value": 23
         },
         {
-          "year": 1922,
-          "value": 46
+          "year": 1888,
+          "value": 21
         },
         {
-          "year": 1923,
+          "year": 1889,
+          "value": 47
+        },
+        {
+          "year": 1890,
+          "value": 187
+        },
+        {
+          "year": 1891,
+          "value": 15
+        },
+        {
+          "year": 1892,
+          "value": 14
+        },
+        {
+          "year": 1893,
+          "value": 178
+        },
+        {
+          "year": 1894,
+          "value": 76
+        },
+        {
+          "year": 1895,
+          "value": 71
+        },
+        {
+          "year": 1896,
           "value": 154
         },
         {
-          "year": 1924,
-          "value": 165
+          "year": 1897,
+          "value": 457
         },
         {
-          "year": 1925,
-          "value": 146
+          "year": 1898,
+          "value": 169
         },
         {
-          "year": 1926,
-          "value": 62
+          "year": 1899,
+          "value": 163
         },
         {
-          "year": 1927,
-          "value": 75
+          "year": 1900,
+          "value": 202
         },
         {
-          "year": 1928,
-          "value": 68
+          "year": 1901,
+          "value": 127
         },
         {
-          "year": 1929,
-          "value": 97
+          "year": 1902,
+          "value": 222
         },
         {
-          "year": 1930,
-          "value": 88
+          "year": 1903,
+          "value": 118
         },
         {
-          "year": 1931,
-          "value": 36
+          "year": 1904,
+          "value": 175
         },
         {
-          "year": 1932,
-          "value": 18
+          "year": 1905,
+          "value": 138
         },
         {
-          "year": 1933,
-          "value": 116
+          "year": 1906,
+          "value": 98
         },
         {
-          "year": 1934,
-          "value": 17
+          "year": 1907,
+          "value": 159
         },
         {
-          "year": 1935,
-          "value": 30
+          "year": 1908,
+          "value": 158
         },
         {
-          "year": 1936,
+          "year": 1909,
+          "value": 83
+        },
+        {
+          "year": 1910,
+          "value": 118
+        },
+        {
+          "year": 1911,
           "value": 142
         },
         {
-          "year": 1937,
+          "year": 1912,
+          "value": 59
+        },
+        {
+          "year": 1913,
+          "value": 35
+        },
+        {
+          "year": 1914,
           "value": 17
         },
         {
+          "year": 1915,
+          "value": 37
+        },
+        {
+          "year": 1916,
+          "value": 13
+        },
+        {
+          "year": 1917,
+          "value": 11
+        },
+        {
+          "year": 1918,
+          "value": 60
+        },
+        {
+          "year": 1919,
+          "value": 28
+        },
+        {
+          "year": 1920,
+          "value": 127
+        },
+        {
+          "year": 1921,
+          "value": 68
+        },
+        {
+          "year": 1922,
+          "value": 44
+        },
+        {
+          "year": 1923,
+          "value": 121
+        },
+        {
+          "year": 1924,
+          "value": 175
+        },
+        {
+          "year": 1925,
+          "value": 131
+        },
+        {
+          "year": 1926,
+          "value": 66
+        },
+        {
+          "year": 1927,
+          "value": 69
+        },
+        {
+          "year": 1928,
+          "value": 85
+        },
+        {
+          "year": 1929,
+          "value": 83
+        },
+        {
+          "year": 1930,
+          "value": 90
+        },
+        {
+          "year": 1931,
+          "value": 21
+        },
+        {
+          "year": 1932,
+          "value": 12
+        },
+        {
+          "year": 1933,
+          "value": 103
+        },
+        {
+          "year": 1934,
+          "value": 29
+        },
+        {
+          "year": 1935,
+          "value": 34
+        },
+        {
+          "year": 1936,
+          "value": 145
+        },
+        {
+          "year": 1937,
+          "value": 31
+        },
+        {
           "year": 1938,
-          "value": 18
+          "value": 3
         },
         {
           "year": 1939,
-          "value": 0
+          "value": 4
         },
         {
           "year": 1940,
-          "value": 14
+          "value": 1
         },
         {
           "year": 1941,
@@ -985,7 +989,7 @@ _.extend(CONFIG, {
         },
         {
           "year": 1945,
-          "value": 1
+          "value": 2
         },
         {
           "year": 1946,
@@ -1001,11 +1005,11 @@ _.extend(CONFIG, {
         },
         {
           "year": 1949,
-          "value": 1
+          "value": 0
         },
         {
           "year": 1950,
-          "value": 5
+          "value": 0
         },
         {
           "year": 1951,
@@ -1021,11 +1025,11 @@ _.extend(CONFIG, {
         },
         {
           "year": 1954,
-          "value": 2
+          "value": 0
         },
         {
           "year": 1955,
-          "value": 4
+          "value": 0
         },
         {
           "year": 1956,
@@ -1049,11 +1053,11 @@ _.extend(CONFIG, {
         },
         {
           "year": 1961,
-          "value": 8
+          "value": 0
         },
         {
           "year": 1962,
-          "value": 13
+          "value": 0
         },
         {
           "year": 1963,
@@ -1065,7 +1069,7 @@ _.extend(CONFIG, {
         },
         {
           "year": 1965,
-          "value": 1
+          "value": 0
         },
         {
           "year": 1966,
@@ -1077,139 +1081,19 @@ _.extend(CONFIG, {
         },
         {
           "year": 1968,
-          "value": 1
+          "value": 0
         },
         {
           "year": 1969,
-          "value": 9
+          "value": 0
         },
         {
           "year": 1970,
-          "value": 13
+          "value": 0
         },
         {
           "year": 1971,
-          "value": 2
-        },
-        {
-          "year": 1972,
-          "value": 0
-        },
-        {
-          "year": 1973,
-          "value": 10
-        },
-        {
-          "year": 1974,
-          "value": 0
-        },
-        {
-          "year": 1975,
-          "value": 0
-        },
-        {
-          "year": 1976,
-          "value": 4
-        },
-        {
-          "year": 1977,
-          "value": 0
-        },
-        {
-          "year": 1978,
-          "value": 1
-        },
-        {
-          "year": 1979,
-          "value": 0
-        },
-        {
-          "year": 1980,
-          "value": 0
-        },
-        {
-          "year": 1981,
-          "value": 0
-        },
-        {
-          "year": 1982,
-          "value": 0
-        },
-        {
-          "year": 1983,
-          "value": 4
-        },
-        {
-          "year": 1984,
-          "value": 0
-        },
-        {
-          "year": 1985,
-          "value": 0
-        },
-        {
-          "year": 1986,
-          "value": 0
-        },
-        {
-          "year": 1987,
-          "value": 0
-        },
-        {
-          "year": 1988,
-          "value": 0
-        },
-        {
-          "year": 1989,
-          "value": 0
-        },
-        {
-          "year": 1990,
-          "value": 0
-        },
-        {
-          "year": 1991,
-          "value": 0
-        },
-        {
-          "year": 1992,
-          "value": 7
-        },
-        {
-          "year": 1993,
-          "value": 0
-        },
-        {
-          "year": 1994,
-          "value": 0
-        },
-        {
-          "year": 1995,
-          "value": 0
-        },
-        {
-          "year": 1996,
-          "value": 0
-        },
-        {
-          "year": 1997,
-          "value": 0
-        },
-        {
-          "year": 1998,
-          "value": 0
-        },
-        {
-          "year": 1999,
-          "value": 1
-        },
-        {
-          "year": 2000,
-          "value": 0
-        },
-        {
-          "year": 2001,
-          "value": 4
+          "value": 3
         }
       ]
     },
@@ -1220,42 +1104,42 @@ _.extend(CONFIG, {
         {
           "text": "Fotografie und neue Medien",
           "color": "#7aa030",
-          "count": 5472
+          "count": 5456
         },
         {
           "text": "Grafische Sammlung",
           "color": "#726aa4",
-          "count": 1876
+          "count": 1884
         },
         {
           "text": "Ostasien",
           "color": "#d37200",
-          "count": 1018
+          "count": 1034
         },
         {
           "text": "Plakatsammlung",
           "color": "#d6a900",
-          "count": 331
+          "count": 339
         },
         {
           "text": "Moderne",
           "color": "#529c99",
-          "count": 141
+          "count": 140
         },
         {
           "text": "Mode und Textil",
           "color": "#b13734",
-          "count": 64
+          "count": 61
         },
         {
           "text": "Musikinstrumente",
           "color": "#1f3c90",
-          "count": 52
+          "count": 58
         },
         {
           "text": "Other",
           "color": "#5a0661",
-          "count": 47
+          "count": 33
         }
       ]
     }
@@ -1331,22 +1215,22 @@ _.extend(CONFIG, {
       ],
       "width": 512,
       "height": 512,
-      "depth": 120400,
+      "depth": 108800,
       "mode": "railcar",
       "cameraPosition": [
         0,
         0,
-        -30100.0
+        -27200.0
       ],
       "bounds": [
         0,
         0,
-        -60200.0,
-        60200.0
+        -54400.0,
+        54400.0
       ],
       "yearRange": [
-        1701,
-        2001
+        1700,
+        1971
       ]
     },
     "timelineTracks": {
@@ -1364,28 +1248,28 @@ _.extend(CONFIG, {
       ],
       "width": 1260,
       "height": 512,
-      "depth": 120400,
+      "depth": 108800,
       "cameraPosition": [
         0,
         256.0,
-        -30100.0
+        -27200.0
       ],
       "mode": "railcar",
       "bounds": [
         -720.0,
         720.0,
-        -60200.0,
-        60200.0
+        -54400.0,
+        54400.0
       ],
       "yearRange": [
-        1701,
-        2001
+        1700,
+        1971
       ],
       "overlays": [
         {
           "type": "plane",
           "width": 1440,
-          "height": 120400,
+          "height": 108800,
           "image": "img/categories.png",
           "offset": [
             0,
