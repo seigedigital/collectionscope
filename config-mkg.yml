@@ -2,20 +2,24 @@
 name: mkg
 
 # Site metadta to be used in the meta tags and introduction screen
-title: "Collectionscope Demo: The MKG Open Access"
-titleFormatted: "Collection<strong>scope</strong> Demo:<br /><small>The MKG Open Access</small>" # May contain HTML
-description: Explore the MKG's collections across time and space.
-introductionText: There are over <strong>40,000 objects</strong> on display at <a href="https://www.metmuseum.org/" target="_blank">The MKG</a> at any given time, but this is only <strong>2 percent</strong> of the Museum’s collections! Where are these objects from? When were they added to The MKG’s collection? And why were they chosen? Let’s explore.
+title: "Collectionscope Demo"
+titleFormatted: "Collectionscope Demo" # May contain HTML
+description: Entdecke die Sammlung in Zeit und Raum mit Collectionscope!
+introductionText: Die Sammlung des <a href="https://www.mkg-hamburg.de/" target="_blank">MK&amp;G Hamburg</a> umspannt mehr als 4000 Jahre Menschheitsgeschichte und umfasst circa 500.000 Objekte. Mehr als 22.000 von diesen werden in der <a href="https://sammlungonline.mkg-hamburg.de/" target="_blank">MK&amp;G Sammlung Online</a> gezeigt.
  # May contain HTML
-creditText: The <a href="https://amnh-sciviz.github.io/collectionscope/" target="_blank">CollectionScope Tool</a> is a part of the Knight Foundation's <a href="https://knightfoundation.org/press/releases/shaping-the-future-of-technology-in-museums-knight-invests-750000-in-five-experiments-using-immersive-technology-in-the-arts/" target="_blank">Immersive Technology in the Arts Fund</a> # May contain HTML
+creditText: The software <a href="https://amnh-sciviz.github.io/collectionscope/" target="_blank">CollectionScope Tool</a> is a part of the Knight Foundation's <a href="https://knightfoundation.org/press/releases/shaping-the-future-of-technology-in-museums-knight-invests-750000-in-five-experiments-using-immersive-technology-in-the-arts/" target="_blank">Immersive Technology in the Arts Fund</a> # May contain HTML
 credits:
-  - name: American Museum of Natural History
-    url: https://amnh.org/
-    image: ../../img/amnh_logo.png # this path is relative to your /apps/{your project}/index.html file
-
-  - name: Knight Foundation
-    url: https://knightfoundation.org/
-    image: ../../img/knight_logo.png
+  - name: MK&G Hamburg
+    url: https://www.mkg-hamburg.de/
+    image: ../../img/MKG_Logo_Extern_negativ.png # this path is relative to your /apps/{your project}/index.html file
+  #
+  # - name: American Museum of Natural History
+  #   url: https://amnh.org/
+  #   image: ../../img/amnh_logo.png # this path is relative to your /apps/{your project}/index.html file
+  #
+  # - name: Knight Foundation
+  #   url: https://knightfoundation.org/
+  #   image: ../../img/knight_logo.png
 
 #################################
 # Define your meta data source
@@ -47,8 +51,8 @@ dateColumn: Year
 dateLabel: Jahr # name of this date for displaying to the user
 # If there is a valid range of years for date, enter it here, otherwise comment it out.
   # Entries with invalid dates will be removed
-minimumYear: 1700
-maximumYear: 2001
+minimumYear: -1450
+maximumYear: 2023
 
 #################################
 # Location
@@ -99,22 +103,23 @@ groupColors:
   # Entries with blank or null values will not be displayed
 itemFields:
 
-  - column: Id
-    label: Id
+  # - column: Id
+  #   label: Id
 
   - column: Title
     isTitle: true # titles will be displayed as headings
-  #
-  # - column: Link Resource
-  #   label: View item details # labels support string formatting, e.g. View {Title}
-  #   isLink: true # links will look like a button and hyperlink to a new window/tab
 
-  - column: primaryImageSmall
-    isImage: true # images will be embedded in the page, so larger images will negaively impact the user experience since it will take longer to load
+  - column: Creators
+    label: Hersteller*in/Künstler*in<br />
 
-  - column: Permalink
-    label: Open Website
-    isLink: true
+  - column: Place
+    label: Ort
+
+  - column: Year
+    label: Jahr
+
+  - column: Classification
+    label: Sachgruppe
 
   - column: Sammlung
     label: Sammlung
@@ -122,14 +127,18 @@ itemFields:
   - column: Inventarnummer
     label: Inventarnummer
 
-  - column: Classification
-    label: Sachgruppe
+  - column: Permalink
+    label: Zum Objekt
+    isLink: true
 
-  - column: Year
-    label: Jahr
+  - column: primaryImageSmall
+    isImage: true # images will be embedded in the page, so larger images will negaively impact the user experience since it will take longer to load
 
-  - column: Place
-    label: Ort
+  # - column: Link Resource
+  #   label: View item details # labels support string formatting, e.g. View {Title}
+  #   isLink: true # links will look like a button and hyperlink to a new window/tab
+
+
 
 #################################
 # Images

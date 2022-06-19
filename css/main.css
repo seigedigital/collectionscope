@@ -1002,6 +1002,9 @@ button.item-close:hover {
 }
 .item-metadata-container .button-group {
   text-align: right;
+  position: absolute;
+  top: 10px;
+  right: 10px;
 }
 .item-metadata-container .button-group .button {
   font-size: 1.2rem;
@@ -1017,6 +1020,7 @@ button.item-close:hover {
   font-weight: bold;
   display: inline-block;
   margin-right: 0.25rem;
+  vertical-align: top;
 }
 .item-metadata-container dd {
   display: inline-block;
