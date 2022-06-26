@@ -51,7 +51,7 @@ dateColumn: Year
 dateLabel: Jahr # name of this date for displaying to the user
 # If there is a valid range of years for date, enter it here, otherwise comment it out.
   # Entries with invalid dates will be removed
-minimumYear: -1450
+minimumYear: 1475
 maximumYear: 2023
 
 #################################
@@ -110,7 +110,7 @@ itemFields:
     isTitle: true # titles will be displayed as headings
 
   - column: Creators
-    label: Hersteller*in/Künstler*in<br />
+    label: Hersteller:in/Künstler:in
 
   - column: Place
     label: Ort
