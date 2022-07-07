@@ -2003,7 +2003,7 @@ _.extend(CONFIG, {
           "count": 5456
         },
         {
-          "text": "Grafische Sammlung",
+          "text": "Grafik und Plakat",
           "color": "#726aa4",
           "count": 2706
         },
